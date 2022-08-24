@@ -4,7 +4,7 @@ A collection of Ansible playbooks
 
 ## Table of Contents
 
-[__TOC__]
+[[_TOC_]]
 
 ## Playbooks
 
